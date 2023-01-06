@@ -22,4 +22,4 @@
   
   
   
-  ![Snake animation](https://github.com/kacesardev/kacesardev/blob/output/github-contribution-grid-snake.svg)
+ 
