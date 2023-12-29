@@ -1,8 +1,8 @@
 ## Eai! Eu sou o Carlos 👽
 
-- 🔭 Hoje sou estagiário em T.I
-- 🌱 Estudante de programação
-- ✨ Desejo me tornar um desenvolvedor FullStack
+- 🔭 Hoje eu sou Desenvolvedor Python Backend 
+- 🌱 Tecnico de Suporte Júnior
+- ✨ Web Scraping
 
 <div> 
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
