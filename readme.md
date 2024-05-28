@@ -1,7 +1,6 @@
 ## Eai! Eu sou o Carlos 👽
 
 - 🔭 Hoje eu sou Desenvolvedor Python Backend 
-- 🌱 Analista de Sistemas
 - ✨ Web Scraping
 
 <div> 
